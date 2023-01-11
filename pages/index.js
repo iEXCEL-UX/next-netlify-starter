@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container-fluid">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>iEXCEL Internal Request Form</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
